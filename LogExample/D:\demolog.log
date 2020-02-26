@@ -1,0 +1,6 @@
+2019-02-05 10:19:00 INFO  LogDemo:13 - Test info
+2019-02-05 10:19:00 DEBUG LogDemo:14 - Test info
+2019-02-05 10:19:15 INFO  LogDemo:13 - Test info
+2019-02-05 10:19:15 DEBUG LogDemo:14 - Test info
+2019-02-05 10:19:58 INFO  LogDemo:13 - Test info
+2019-02-05 10:19:58 DEBUG LogDemo:14 - Test info

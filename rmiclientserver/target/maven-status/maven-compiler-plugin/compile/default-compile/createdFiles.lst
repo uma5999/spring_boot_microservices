@@ -1,0 +1,6 @@
+com/cogknit/Model/Student.class
+com/cogknit/SpringTestApplication.class
+com/cogknit/dao/AddInfo.class
+com/cogknit/dao/Config.class
+com/cogknit/service/MyService.class
+com/cogknit/controller/MyController.class
